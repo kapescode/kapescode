@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Karan 👋
 # Welcome to My GitHub Profile!
 
 ## About Me
@@ -12,7 +12,7 @@ I'm a doctor exploring the world of data science, keen to be a leader within AI 
 ## Projects
 Here are some of my notable projects on web design:
 1. [Rekap Med] (https://rekapmed.com): Medical Education Platform
-2. [Kaaya Clinic](kaayaclinic.com): Medical Aesthetics Business.
+2. [Kaaya Clinic] (kaayaclinic.com): Medical Aesthetics Business.
 
 ## Connect with Me
 - [LinkedIn] (https://www.linkedin.com/in/karanpnj)
