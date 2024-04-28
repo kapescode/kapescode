@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm a doctor exploring the world of data science, keen to be a leader within AI in health tech!
+I'm a doctor exploring the world of data science, keen to be a leader within AI and NLP in health tech
 
 ## Skills
 - **Programming Languages**: Python
